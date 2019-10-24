@@ -1,0 +1,88 @@
+{
+    
+    "navbarItem2": {
+        "name": "Videos",
+        "container": {
+            "containerLabel": "Videos",
+            "containerType": "Grid",
+            "api": ""
+        }
+    },
+    
+    
+    "navbarItem3": {
+        "name": "Podcast",
+        "container": {
+            "containerLabel": "Podcast",
+            "containerType": "webView",
+            "api": ""
+        }
+    },
+    
+    "navbarItem4": {
+        "name": "More",
+        "container": {
+            "containerLabel": "terms",
+            "containerType": "static",
+            "api": ""
+        }
+    },
+    
+    "navbarItem":{"name": "More",
+        "container": [ {
+            "containerLabel": "Discover",
+            "containerType": "horizontal_list",
+            
+            "section": [{
+                "sectionLabel": "Be Fantastic Movement",
+                "api": " "
+            },
+            
+            {
+                "sectionLabel": "About Dr. Fantastic",
+                "api": ""
+            }]
+        },
+        
+        
+        {
+            "containerLabel": "Fantastic Interviews",
+            "containerType": "carousel",
+            "api": ""
+        },
+        {
+            "containerLabel": "Ask Dr. Fantastic Anything",
+            "containerType": "carousel",
+            "api": ""
+        },
+        
+        {
+            "containerLabel": "A day in the life of Dr. Fantastic",
+            "containerType": "carousel",
+            "api": ""
+        },
+        
+        {
+            "containerLabel": "Podcast",
+            "containerType": "Onerow",
+            
+            
+        },
+        {
+            "containerLabel": "Radio",
+            "containerType": "Onerow",
+            
+            
+        },
+        
+        
+        {
+            "containerLabel": "Book A Motivational Session With Dr. Fantastic",
+            "containerType": "static",
+            "api": ""
+        }]
+        
+    }
+}
+
+

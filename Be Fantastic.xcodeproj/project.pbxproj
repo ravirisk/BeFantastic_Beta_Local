@@ -1,0 +1,1181 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 51;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1921C54717ED235AB3B43966 /* Pods_Be_Fantastic.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1E56BE989722F2CEFC71C2ED /* Pods_Be_Fantastic.framework */; };
+		2E01AB412360AB1200C9D920 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E01AB402360AB1200C9D920 /* SettingViewController.swift */; };
+		2E084C9A234E1B1A00D7BF51 /* MoreDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E084C99234E1B1A00D7BF51 /* MoreDetailViewController.swift */; };
+		2E084C9D234E411F00D7BF51 /* RadioShowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E084C9C234E411F00D7BF51 /* RadioShowViewController.swift */; };
+		2E084C9F234E442100D7BF51 /* RadioFileTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E084C9E234E442100D7BF51 /* RadioFileTableCell.swift */; };
+		2E084CA1234E475700D7BF51 /* RadioShow.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E084CA0234E475700D7BF51 /* RadioShow.png */; };
+		2E084CA4234E78C200D7BF51 /* Movementresponse.json in Resources */ = {isa = PBXBuildFile; fileRef = 2E084CA3234E78C200D7BF51 /* Movementresponse.json */; };
+		2E084CA7234E7F1700D7BF51 /* TPKeyboardAvoiding in Resources */ = {isa = PBXBuildFile; fileRef = 2E084CA6234E7F1600D7BF51 /* TPKeyboardAvoiding */; };
+		2E0BDDAD235E007B00FE44A9 /* CustomHeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0BDDAC235E007B00FE44A9 /* CustomHeaderCell.swift */; };
+		2E0D41AA233D8D86000683A9 /* VideoTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41A9233D8D86000683A9 /* VideoTabViewController.swift */; };
+		2E0D41AC233D8DCB000683A9 /* VideoTabCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41AB233D8DCB000683A9 /* VideoTabCell.swift */; };
+		2E0D41D5233D9502000683A9 /* fjalla-one in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41D4233D9502000683A9 /* fjalla-one */; };
+		2E0D41DD233D9529000683A9 /* Screenshot 2019-09-27 at 2.22.37 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41D6233D9529000683A9 /* Screenshot 2019-09-27 at 2.22.37 AM.png */; };
+		2E0D41DE233D9529000683A9 /* Screenshot 2019-09-27 at 4.30.22 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41D7233D9529000683A9 /* Screenshot 2019-09-27 at 4.30.22 AM.png */; };
+		2E0D41DF233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.42 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41D8233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.42 AM.png */; };
+		2E0D41E0233D9529000683A9 /* Screenshot 2019-09-27 at 2.44.28 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41D9233D9529000683A9 /* Screenshot 2019-09-27 at 2.44.28 AM.png */; };
+		2E0D41E1233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.32 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41DA233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.32 AM.png */; };
+		2E0D41E5233D9538000683A9 /* AppConfig.json in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41E4233D9538000683A9 /* AppConfig.json */; };
+		2E0D41E7233D9859000683A9 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41E6233D9859000683A9 /* HomeViewController.swift */; };
+		2E0D41EB233D9870000683A9 /* HomeTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41E8233D9870000683A9 /* HomeTableCell.swift */; };
+		2E0D41EC233D9870000683A9 /* HomeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41E9233D9870000683A9 /* HomeCollectionViewCell.swift */; };
+		2E0D41ED233D9870000683A9 /* HomeVideoListPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41EA233D9870000683A9 /* HomeVideoListPresenter.swift */; };
+		2E0D41F0233D98B5000683A9 /* AppConstant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41EF233D98B5000683A9 /* AppConstant.swift */; };
+		2E0D41F2233D98C6000683A9 /* CommonMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41F1233D98C6000683A9 /* CommonMethod.swift */; };
+		2E0D41F6233DA2D8000683A9 /* Radio.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41F3233DA2D8000683A9 /* Radio.png */; };
+		2E0D41F7233DA2D8000683A9 /* Podcast.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41F4233DA2D8000683A9 /* Podcast.png */; };
+		2E0D41F8233DA2D8000683A9 /* AskAnyThing.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D41F5233DA2D8000683A9 /* AskAnyThing.png */; };
+		2E0D41FA233DA488000683A9 /* AskAnyThingTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41F9233DA488000683A9 /* AskAnyThingTableCell.swift */; };
+		2E0D41FD233DAABC000683A9 /* PodCastViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D41FC233DAABC000683A9 /* PodCastViewController.swift */; };
+		2E0D4200233DAC83000683A9 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E0D41FF233DAC83000683A9 /* WebKit.framework */; };
+		2E0D4202233DBF91000683A9 /* HomeTabbarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D4201233DBF91000683A9 /* HomeTabbarController.swift */; };
+		2E0D4204233DC1A9000683A9 /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D4203233DC1A9000683A9 /* MoreViewController.swift */; };
+		2E0D4206233DCB0B000683A9 /* MoreTabTableCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0D4205233DCB0B000683A9 /* MoreTabTableCellTableViewCell.swift */; };
+		2E0D4208233DCC08000683A9 /* Screenshot 2019-09-27 at 10.17.40 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E0D4207233DCC08000683A9 /* Screenshot 2019-09-27 at 10.17.40 AM.png */; };
+		2E1E96BE233FFAE500CC4D98 /* roboto in Resources */ = {isa = PBXBuildFile; fileRef = 2E1E96BD233FFAE500CC4D98 /* roboto */; };
+		2E1E96C0233FFC7B00CC4D98 /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E1E96BF233FFC7B00CC4D98 /* CustomView.swift */; };
+		2E28A46A233E1B1A009E6E69 /* YouTubeVideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E28A469233E1B1A009E6E69 /* YouTubeVideoViewController.swift */; };
+		2E3A406823475AFD007099A2 /* youtube.json in Resources */ = {isa = PBXBuildFile; fileRef = 2E3A406723475AFD007099A2 /* youtube.json */; };
+		2E3A406A234769E6007099A2 /* VideoDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E3A4069234769E6007099A2 /* VideoDetailsViewController.swift */; };
+		2E3A406C23478123007099A2 /* VideoDetailTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E3A406B23478123007099A2 /* VideoDetailTableCell.swift */; };
+		2E49CCCF23490BC40023BB17 /* FantasticInterviewTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E49CCCE23490BC40023BB17 /* FantasticInterviewTableCell.swift */; };
+		2E49CCD223492ADE0023BB17 /* MotivationalQuotesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E49CCD123492ADE0023BB17 /* MotivationalQuotesViewController.swift */; };
+		2E49CCD523492B020023BB17 /* QuotesPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E49CCD423492B020023BB17 /* QuotesPresenter.swift */; };
+		2E49CCD7234966DE0023BB17 /* Quotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E49CCD6234966DE0023BB17 /* Quotes.swift */; };
+		2E49CCDA234A0C0D0023BB17 /* XMLReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E49CCD8234A0C0D0023BB17 /* XMLReader.m */; };
+		2E49DED0233E4E8600F05256 /* FantasticMovementViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E49DECF233E4E8600F05256 /* FantasticMovementViewController.swift */; };
+		2E49DED2233E510400F05256 /* FantasticMovementTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E49DED1233E510400F05256 /* FantasticMovementTableCell.swift */; };
+		2E49DED4233E5AD900F05256 /* BookSessionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E49DED3233E5AD900F05256 /* BookSessionViewController.swift */; };
+		2E4A9B4B2357750F00E58B06 /* AdayinLife.json in Resources */ = {isa = PBXBuildFile; fileRef = 2E4A9B4A2357750F00E58B06 /* AdayinLife.json */; };
+		2E554F0F233D8A4A009640CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E554F0E233D8A4A009640CC /* AppDelegate.swift */; };
+		2E554F14233D8A4A009640CC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E554F12233D8A4A009640CC /* Main.storyboard */; };
+		2E554F19233D8A4B009640CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E554F18233D8A4B009640CC /* Assets.xcassets */; };
+		2E554F1C233D8A4B009640CC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E554F1A233D8A4B009640CC /* LaunchScreen.storyboard */; };
+		2E554F27233D8A4B009640CC /* Be_FantasticTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E554F26233D8A4B009640CC /* Be_FantasticTests.swift */; };
+		2E554F32233D8A4B009640CC /* Be_FantasticUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E554F31233D8A4B009640CC /* Be_FantasticUITests.swift */; };
+		2E572D12235F09190016E2DC /* ExpandableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E572D11235F09190016E2DC /* ExpandableCell.swift */; };
+		2E59AD25234FB8CB00A5D9B4 /* iOSAudioPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E59AD24234FB85600A5D9B4 /* iOSAudioPlayer.framework */; };
+		2E59AD26234FB8CB00A5D9B4 /* iOSAudioPlayer.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 2E59AD24234FB85600A5D9B4 /* iOSAudioPlayer.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		2E59AD2E234FB9F700A5D9B4 /* RadioPlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E59AD2D234FB9F700A5D9B4 /* RadioPlayerViewController.swift */; };
+		2E5D482E2341DF6C00E1D89F /* AppConfigurePresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5D482D2341DF6C00E1D89F /* AppConfigurePresenter.swift */; };
+		2E5D48342341E36F00E1D89F /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E5D48332341E36F00E1D89F /* NetworkManager.swift */; };
+		2EA09F3F2346498A00B6F6A8 /* NormalCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA09F3E2346498A00B6F6A8 /* NormalCollectionCell.swift */; };
+		2EA09F4123464DDB00B6F6A8 /* AskAnythingCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA09F4023464DDB00B6F6A8 /* AskAnythingCollectionCell.swift */; };
+		2EA09F4D234684BE00B6F6A8 /* UPCarouselFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EA09F4C234684BE00B6F6A8 /* UPCarouselFlowLayout.swift */; };
+		2EB0ACB6235A4B7000A85916 /* SeeMoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EB0ACB5235A4B7000A85916 /* SeeMoreViewController.swift */; };
+		2EC21960234BC9EA00D0BAF9 /* QuotesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC2195F234BC9EA00D0BAF9 /* QuotesCollectionViewCell.swift */; };
+		2EF63215235F4CE60009BC81 /* AdayInLifeTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF63214235F4CE60009BC81 /* AdayInLifeTableCell.swift */; };
+		2EF63217235F4D650009BC81 /* AdayInLifeCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF63216235F4D650009BC81 /* AdayInLifeCollectionCell.swift */; };
+		2EF6321D235F8C5A0009BC81 /* PodCastandRadioTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF6321C235F8C5A0009BC81 /* PodCastandRadioTableCell.swift */; };
+		2EF63222235F9FC50009BC81 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2EF63221235F9FC50009BC81 /* GoogleService-Info.plist */; };
+		43543F11290CE1EFC4EAD663 /* Pods_Be_FantasticUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2AFA0E99518B40A34751CDD5 /* Pods_Be_FantasticUITests.framework */; };
+		88E499FAD96A4E49EC7C82E8 /* Pods_Be_FantasticTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4210691027E1384C1227BF82 /* Pods_Be_FantasticTests.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2E554F23233D8A4B009640CC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2E554F03233D8A4A009640CC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2E554F0A233D8A4A009640CC;
+			remoteInfo = "Be Fantastic";
+		};
+		2E554F2E233D8A4B009640CC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2E554F03233D8A4A009640CC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2E554F0A233D8A4A009640CC;
+			remoteInfo = "Be Fantastic";
+		};
+		2E59AD23234FB85600A5D9B4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2E59AD1F234FB85600A5D9B4 /* iOSAudioPlayer.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C807E9571C3FA0D8003D9E5B;
+			remoteInfo = iOSAudioPlayer;
+		};
+		2E59AD27234FB8CB00A5D9B4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2E59AD1F234FB85600A5D9B4 /* iOSAudioPlayer.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = C807E9561C3FA0D8003D9E5B;
+			remoteInfo = iOSAudioPlayer;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		2E59AD29234FB8CB00A5D9B4 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				2E59AD26234FB8CB00A5D9B4 /* iOSAudioPlayer.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		1E56BE989722F2CEFC71C2ED /* Pods_Be_Fantastic.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Be_Fantastic.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		29E4963D70CB64EDD6370AB8 /* Pods-Be FantasticTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Be FantasticTests.release.xcconfig"; path = "Target Support Files/Pods-Be FantasticTests/Pods-Be FantasticTests.release.xcconfig"; sourceTree = "<group>"; };
+		2AFA0E99518B40A34751CDD5 /* Pods_Be_FantasticUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Be_FantasticUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E01AB402360AB1200C9D920 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		2E084C99234E1B1A00D7BF51 /* MoreDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreDetailViewController.swift; sourceTree = "<group>"; };
+		2E084C9C234E411F00D7BF51 /* RadioShowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioShowViewController.swift; sourceTree = "<group>"; };
+		2E084C9E234E442100D7BF51 /* RadioFileTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioFileTableCell.swift; sourceTree = "<group>"; };
+		2E084CA0234E475700D7BF51 /* RadioShow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RadioShow.png; sourceTree = "<group>"; };
+		2E084CA3234E78C200D7BF51 /* Movementresponse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Movementresponse.json; sourceTree = "<group>"; };
+		2E084CA6234E7F1600D7BF51 /* TPKeyboardAvoiding */ = {isa = PBXFileReference; lastKnownFileType = folder; path = TPKeyboardAvoiding; sourceTree = "<group>"; };
+		2E0BDDAC235E007B00FE44A9 /* CustomHeaderCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomHeaderCell.swift; sourceTree = "<group>"; };
+		2E0D41A9233D8D86000683A9 /* VideoTabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = VideoTabViewController.swift; path = "Be Fantastic/VideoTabViewController.swift"; sourceTree = SOURCE_ROOT; };
+		2E0D41AB233D8DCB000683A9 /* VideoTabCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VideoTabCell.swift; path = "Be Fantastic/VideoTabCell.swift"; sourceTree = SOURCE_ROOT; };
+		2E0D41D4233D9502000683A9 /* fjalla-one */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "fjalla-one"; sourceTree = "<group>"; };
+		2E0D41D6233D9529000683A9 /* Screenshot 2019-09-27 at 2.22.37 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2019-09-27 at 2.22.37 AM.png"; sourceTree = "<group>"; };
+		2E0D41D7233D9529000683A9 /* Screenshot 2019-09-27 at 4.30.22 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2019-09-27 at 4.30.22 AM.png"; sourceTree = "<group>"; };
+		2E0D41D8233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.42 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2019-09-27 at 2.45.42 AM.png"; sourceTree = "<group>"; };
+		2E0D41D9233D9529000683A9 /* Screenshot 2019-09-27 at 2.44.28 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2019-09-27 at 2.44.28 AM.png"; sourceTree = "<group>"; };
+		2E0D41DA233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.32 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2019-09-27 at 2.45.32 AM.png"; sourceTree = "<group>"; };
+		2E0D41E4233D9538000683A9 /* AppConfig.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AppConfig.json; sourceTree = "<group>"; };
+		2E0D41E6233D9859000683A9 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		2E0D41E8233D9870000683A9 /* HomeTableCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeTableCell.swift; sourceTree = "<group>"; };
+		2E0D41E9233D9870000683A9 /* HomeCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeCollectionViewCell.swift; sourceTree = "<group>"; };
+		2E0D41EA233D9870000683A9 /* HomeVideoListPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVideoListPresenter.swift; sourceTree = "<group>"; };
+		2E0D41EF233D98B5000683A9 /* AppConstant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstant.swift; sourceTree = "<group>"; };
+		2E0D41F1233D98C6000683A9 /* CommonMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonMethod.swift; sourceTree = "<group>"; };
+		2E0D41F3233DA2D8000683A9 /* Radio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Radio.png; sourceTree = "<group>"; };
+		2E0D41F4233DA2D8000683A9 /* Podcast.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Podcast.png; sourceTree = "<group>"; };
+		2E0D41F5233DA2D8000683A9 /* AskAnyThing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AskAnyThing.png; sourceTree = "<group>"; };
+		2E0D41F9233DA488000683A9 /* AskAnyThingTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AskAnyThingTableCell.swift; sourceTree = "<group>"; };
+		2E0D41FC233DAABC000683A9 /* PodCastViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodCastViewController.swift; sourceTree = "<group>"; };
+		2E0D41FF233DAC83000683A9 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		2E0D4201233DBF91000683A9 /* HomeTabbarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTabbarController.swift; sourceTree = "<group>"; };
+		2E0D4203233DC1A9000683A9 /* MoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreViewController.swift; sourceTree = "<group>"; };
+		2E0D4205233DCB0B000683A9 /* MoreTabTableCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreTabTableCellTableViewCell.swift; sourceTree = "<group>"; };
+		2E0D4207233DCC08000683A9 /* Screenshot 2019-09-27 at 10.17.40 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2019-09-27 at 10.17.40 AM.png"; sourceTree = "<group>"; };
+		2E1E96BD233FFAE500CC4D98 /* roboto */ = {isa = PBXFileReference; lastKnownFileType = folder; path = roboto; sourceTree = "<group>"; };
+		2E1E96BF233FFC7B00CC4D98 /* CustomView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomView.swift; sourceTree = "<group>"; };
+		2E28A469233E1B1A009E6E69 /* YouTubeVideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YouTubeVideoViewController.swift; sourceTree = "<group>"; };
+		2E3A406723475AFD007099A2 /* youtube.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = youtube.json; sourceTree = "<group>"; };
+		2E3A4069234769E6007099A2 /* VideoDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoDetailsViewController.swift; sourceTree = "<group>"; };
+		2E3A406B23478123007099A2 /* VideoDetailTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoDetailTableCell.swift; sourceTree = "<group>"; };
+		2E49CCCE23490BC40023BB17 /* FantasticInterviewTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticInterviewTableCell.swift; sourceTree = "<group>"; };
+		2E49CCD123492ADE0023BB17 /* MotivationalQuotesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotivationalQuotesViewController.swift; sourceTree = "<group>"; };
+		2E49CCD423492B020023BB17 /* QuotesPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesPresenter.swift; sourceTree = "<group>"; };
+		2E49CCD6234966DE0023BB17 /* Quotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quotes.swift; sourceTree = "<group>"; };
+		2E49CCD8234A0C0D0023BB17 /* XMLReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMLReader.m; sourceTree = "<group>"; };
+		2E49CCD9234A0C0D0023BB17 /* XMLReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMLReader.h; sourceTree = "<group>"; };
+		2E49DECF233E4E8600F05256 /* FantasticMovementViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticMovementViewController.swift; sourceTree = "<group>"; };
+		2E49DED1233E510400F05256 /* FantasticMovementTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticMovementTableCell.swift; sourceTree = "<group>"; };
+		2E49DED3233E5AD900F05256 /* BookSessionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookSessionViewController.swift; sourceTree = "<group>"; };
+		2E4A9B4A2357750F00E58B06 /* AdayinLife.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AdayinLife.json; sourceTree = "<group>"; };
+		2E554F0B233D8A4A009640CC /* Be Fantastic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Be Fantastic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E554F0E233D8A4A009640CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2E554F13233D8A4A009640CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2E554F18233D8A4B009640CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2E554F1B233D8A4B009640CC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2E554F1D233D8A4B009640CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E554F22233D8A4B009640CC /* Be FantasticTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Be FantasticTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E554F26233D8A4B009640CC /* Be_FantasticTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Be_FantasticTests.swift; sourceTree = "<group>"; };
+		2E554F28233D8A4B009640CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E554F2D233D8A4B009640CC /* Be FantasticUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Be FantasticUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E554F31233D8A4B009640CC /* Be_FantasticUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Be_FantasticUITests.swift; sourceTree = "<group>"; };
+		2E554F33233D8A4B009640CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E572D11235F09190016E2DC /* ExpandableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableCell.swift; sourceTree = "<group>"; };
+		2E59AD1F234FB85600A5D9B4 /* iOSAudioPlayer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = iOSAudioPlayer.xcodeproj; path = "../../Downloads/ios-audio-player-master 2/Framework/iOSAudioPlayer/iOSAudioPlayer.xcodeproj"; sourceTree = "<group>"; };
+		2E59AD2D234FB9F700A5D9B4 /* RadioPlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RadioPlayerViewController.swift; sourceTree = "<group>"; };
+		2E5D482D2341DF6C00E1D89F /* AppConfigurePresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfigurePresenter.swift; sourceTree = "<group>"; };
+		2E5D48332341E36F00E1D89F /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		2EA09F3E2346498A00B6F6A8 /* NormalCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NormalCollectionCell.swift; sourceTree = "<group>"; };
+		2EA09F4023464DDB00B6F6A8 /* AskAnythingCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AskAnythingCollectionCell.swift; sourceTree = "<group>"; };
+		2EA09F4423467F8900B6F6A8 /* Be Fantastic-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Be Fantastic-Bridging-Header.h"; sourceTree = "<group>"; };
+		2EA09F4B234684BD00B6F6A8 /* UPCarouselFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UPCarouselFlowLayout.h; sourceTree = "<group>"; };
+		2EA09F4C234684BE00B6F6A8 /* UPCarouselFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UPCarouselFlowLayout.swift; sourceTree = "<group>"; };
+		2EB0ACB5235A4B7000A85916 /* SeeMoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeeMoreViewController.swift; sourceTree = "<group>"; };
+		2EC2195F234BC9EA00D0BAF9 /* QuotesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesCollectionViewCell.swift; sourceTree = "<group>"; };
+		2EF63214235F4CE60009BC81 /* AdayInLifeTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdayInLifeTableCell.swift; sourceTree = "<group>"; };
+		2EF63216235F4D650009BC81 /* AdayInLifeCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdayInLifeCollectionCell.swift; sourceTree = "<group>"; };
+		2EF6321A235F7E2A0009BC81 /* Be Fantastic.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Be Fantastic.entitlements"; sourceTree = "<group>"; };
+		2EF6321C235F8C5A0009BC81 /* PodCastandRadioTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PodCastandRadioTableCell.swift; sourceTree = "<group>"; };
+		2EF63221235F9FC50009BC81 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		4210691027E1384C1227BF82 /* Pods_Be_FantasticTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Be_FantasticTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5122E00661AC7D5AD245671E /* Pods-Be FantasticTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Be FantasticTests.debug.xcconfig"; path = "Target Support Files/Pods-Be FantasticTests/Pods-Be FantasticTests.debug.xcconfig"; sourceTree = "<group>"; };
+		8491EBF78D5AD09505C23DD8 /* Pods-Be Fantastic.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Be Fantastic.release.xcconfig"; path = "Target Support Files/Pods-Be Fantastic/Pods-Be Fantastic.release.xcconfig"; sourceTree = "<group>"; };
+		DE97BDA6195C0D22C43675EC /* Pods-Be Fantastic.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Be Fantastic.debug.xcconfig"; path = "Target Support Files/Pods-Be Fantastic/Pods-Be Fantastic.debug.xcconfig"; sourceTree = "<group>"; };
+		F2FAADEC9957D804CD85AB50 /* Pods-Be FantasticUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Be FantasticUITests.debug.xcconfig"; path = "Target Support Files/Pods-Be FantasticUITests/Pods-Be FantasticUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		FA73A17D13CC76EF886A6F9B /* Pods-Be FantasticUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Be FantasticUITests.release.xcconfig"; path = "Target Support Files/Pods-Be FantasticUITests/Pods-Be FantasticUITests.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2E554F08233D8A4A009640CC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2E0D4200233DAC83000683A9 /* WebKit.framework in Frameworks */,
+				1921C54717ED235AB3B43966 /* Pods_Be_Fantastic.framework in Frameworks */,
+				2E59AD25234FB8CB00A5D9B4 /* iOSAudioPlayer.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E554F1F233D8A4B009640CC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88E499FAD96A4E49EC7C82E8 /* Pods_Be_FantasticTests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E554F2A233D8A4B009640CC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43543F11290CE1EFC4EAD663 /* Pods_Be_FantasticUITests.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		118A66AAF395078AE4CE71EB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				DE97BDA6195C0D22C43675EC /* Pods-Be Fantastic.debug.xcconfig */,
+				8491EBF78D5AD09505C23DD8 /* Pods-Be Fantastic.release.xcconfig */,
+				5122E00661AC7D5AD245671E /* Pods-Be FantasticTests.debug.xcconfig */,
+				29E4963D70CB64EDD6370AB8 /* Pods-Be FantasticTests.release.xcconfig */,
+				F2FAADEC9957D804CD85AB50 /* Pods-Be FantasticUITests.debug.xcconfig */,
+				FA73A17D13CC76EF886A6F9B /* Pods-Be FantasticUITests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		2E084C9B234E25DF00D7BF51 /* RadioShowTab */ = {
+			isa = PBXGroup;
+			children = (
+				2E084C9C234E411F00D7BF51 /* RadioShowViewController.swift */,
+				2E084C9E234E442100D7BF51 /* RadioFileTableCell.swift */,
+				2E59AD2D234FB9F700A5D9B4 /* RadioPlayerViewController.swift */,
+				2EB0ACB5235A4B7000A85916 /* SeeMoreViewController.swift */,
+				2E0BDDAC235E007B00FE44A9 /* CustomHeaderCell.swift */,
+			);
+			path = RadioShowTab;
+			sourceTree = "<group>";
+		};
+		2E084CA2234E6B6400D7BF51 /* FantasticMovement */ = {
+			isa = PBXGroup;
+			children = (
+				2E49DECF233E4E8600F05256 /* FantasticMovementViewController.swift */,
+				2E49DED1233E510400F05256 /* FantasticMovementTableCell.swift */,
+				2E572D11235F09190016E2DC /* ExpandableCell.swift */,
+			);
+			path = FantasticMovement;
+			sourceTree = "<group>";
+		};
+		2E0D41D0233D94AC000683A9 /* VideoTab */ = {
+			isa = PBXGroup;
+			children = (
+				2E0D41AB233D8DCB000683A9 /* VideoTabCell.swift */,
+				2E0D41A9233D8D86000683A9 /* VideoTabViewController.swift */,
+			);
+			path = VideoTab;
+			sourceTree = "<group>";
+		};
+		2E0D41D1233D94BA000683A9 /* HomeTab */ = {
+			isa = PBXGroup;
+			children = (
+				2EA09F3D2346492B00B6F6A8 /* VideoCell */,
+				2E5D482F2341DF7300E1D89F /* Presenter */,
+				2E0D41E6233D9859000683A9 /* HomeViewController.swift */,
+				2E0D4201233DBF91000683A9 /* HomeTabbarController.swift */,
+				2E49DED3233E5AD900F05256 /* BookSessionViewController.swift */,
+			);
+			path = HomeTab;
+			sourceTree = "<group>";
+		};
+		2E0D41D2233D94C8000683A9 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2E084CA3234E78C200D7BF51 /* Movementresponse.json */,
+				2E4A9B4A2357750F00E58B06 /* AdayinLife.json */,
+				2E3A406723475AFD007099A2 /* youtube.json */,
+				2E0D41E4233D9538000683A9 /* AppConfig.json */,
+				2E0D4207233DCC08000683A9 /* Screenshot 2019-09-27 at 10.17.40 AM.png */,
+				2E084CA0234E475700D7BF51 /* RadioShow.png */,
+				2E0D41F5233DA2D8000683A9 /* AskAnyThing.png */,
+				2E0D41F4233DA2D8000683A9 /* Podcast.png */,
+				2E0D41F3233DA2D8000683A9 /* Radio.png */,
+				2E0D41D6233D9529000683A9 /* Screenshot 2019-09-27 at 2.22.37 AM.png */,
+				2E0D41D9233D9529000683A9 /* Screenshot 2019-09-27 at 2.44.28 AM.png */,
+				2E0D41DA233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.32 AM.png */,
+				2E0D41D8233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.42 AM.png */,
+				2E0D41D7233D9529000683A9 /* Screenshot 2019-09-27 at 4.30.22 AM.png */,
+				2E1E96BD233FFAE500CC4D98 /* roboto */,
+				2E0D41D4233D9502000683A9 /* fjalla-one */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		2E0D41D3233D94D4000683A9 /* MoreTab */ = {
+			isa = PBXGroup;
+			children = (
+				2E0D4203233DC1A9000683A9 /* MoreViewController.swift */,
+				2E0D4205233DCB0B000683A9 /* MoreTabTableCellTableViewCell.swift */,
+				2E084C99234E1B1A00D7BF51 /* MoreDetailViewController.swift */,
+				2E01AB402360AB1200C9D920 /* SettingViewController.swift */,
+			);
+			path = MoreTab;
+			sourceTree = "<group>";
+		};
+		2E0D41EE233D9894000683A9 /* CommonGroup */ = {
+			isa = PBXGroup;
+			children = (
+				2E0D41EF233D98B5000683A9 /* AppConstant.swift */,
+				2E0D41F1233D98C6000683A9 /* CommonMethod.swift */,
+				2E1E96BF233FFC7B00CC4D98 /* CustomView.swift */,
+			);
+			path = CommonGroup;
+			sourceTree = "<group>";
+		};
+		2E0D41FB233DAA99000683A9 /* PodCast */ = {
+			isa = PBXGroup;
+			children = (
+				2E0D41FC233DAABC000683A9 /* PodCastViewController.swift */,
+			);
+			path = PodCast;
+			sourceTree = "<group>";
+		};
+		2E0D41FE233DAC82000683A9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2E0D41FF233DAC83000683A9 /* WebKit.framework */,
+				1E56BE989722F2CEFC71C2ED /* Pods_Be_Fantastic.framework */,
+				4210691027E1384C1227BF82 /* Pods_Be_FantasticTests.framework */,
+				2AFA0E99518B40A34751CDD5 /* Pods_Be_FantasticUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2E28A468233E1AE7009E6E69 /* YpuTubePlayerScreen */ = {
+			isa = PBXGroup;
+			children = (
+				2E28A469233E1B1A009E6E69 /* YouTubeVideoViewController.swift */,
+				2E3A4069234769E6007099A2 /* VideoDetailsViewController.swift */,
+				2E3A406B23478123007099A2 /* VideoDetailTableCell.swift */,
+			);
+			path = YpuTubePlayerScreen;
+			sourceTree = "<group>";
+		};
+		2E49CCD023492A900023BB17 /* QuotesTab */ = {
+			isa = PBXGroup;
+			children = (
+				2E49CCD323492AE50023BB17 /* Presenter */,
+				2E49CCD123492ADE0023BB17 /* MotivationalQuotesViewController.swift */,
+				2E49CCD9234A0C0D0023BB17 /* XMLReader.h */,
+				2E49CCD8234A0C0D0023BB17 /* XMLReader.m */,
+				2E49CCD6234966DE0023BB17 /* Quotes.swift */,
+				2EC2195F234BC9EA00D0BAF9 /* QuotesCollectionViewCell.swift */,
+			);
+			path = QuotesTab;
+			sourceTree = "<group>";
+		};
+		2E49CCD323492AE50023BB17 /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+				2E49CCD423492B020023BB17 /* QuotesPresenter.swift */,
+			);
+			path = Presenter;
+			sourceTree = "<group>";
+		};
+		2E554F02233D8A4A009640CC = {
+			isa = PBXGroup;
+			children = (
+				2E59AD1F234FB85600A5D9B4 /* iOSAudioPlayer.xcodeproj */,
+				2E554F0D233D8A4A009640CC /* Be Fantastic */,
+				2E554F25233D8A4B009640CC /* Be FantasticTests */,
+				2E554F30233D8A4B009640CC /* Be FantasticUITests */,
+				2E554F0C233D8A4A009640CC /* Products */,
+				2E0D41FE233DAC82000683A9 /* Frameworks */,
+				118A66AAF395078AE4CE71EB /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		2E554F0C233D8A4A009640CC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2E554F0B233D8A4A009640CC /* Be Fantastic.app */,
+				2E554F22233D8A4B009640CC /* Be FantasticTests.xctest */,
+				2E554F2D233D8A4B009640CC /* Be FantasticUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2E554F0D233D8A4A009640CC /* Be Fantastic */ = {
+			isa = PBXGroup;
+			children = (
+				2EF63221235F9FC50009BC81 /* GoogleService-Info.plist */,
+				2EF6321A235F7E2A0009BC81 /* Be Fantastic.entitlements */,
+				2E084CA6234E7F1600D7BF51 /* TPKeyboardAvoiding */,
+				2E084CA2234E6B6400D7BF51 /* FantasticMovement */,
+				2E084C9B234E25DF00D7BF51 /* RadioShowTab */,
+				2EA09F4B234684BD00B6F6A8 /* UPCarouselFlowLayout.h */,
+				2EA09F4C234684BE00B6F6A8 /* UPCarouselFlowLayout.swift */,
+				2E554F0E233D8A4A009640CC /* AppDelegate.swift */,
+				2E49CCD023492A900023BB17 /* QuotesTab */,
+				2E5D48322341E33C00E1D89F /* NetworkManger */,
+				2E28A468233E1AE7009E6E69 /* YpuTubePlayerScreen */,
+				2E0D41FB233DAA99000683A9 /* PodCast */,
+				2E0D41EE233D9894000683A9 /* CommonGroup */,
+				2E0D41D2233D94C8000683A9 /* Resources */,
+				2E0D41D1233D94BA000683A9 /* HomeTab */,
+				2E0D41D0233D94AC000683A9 /* VideoTab */,
+				2E0D41D3233D94D4000683A9 /* MoreTab */,
+				2E554F12233D8A4A009640CC /* Main.storyboard */,
+				2E554F18233D8A4B009640CC /* Assets.xcassets */,
+				2E554F1A233D8A4B009640CC /* LaunchScreen.storyboard */,
+				2E554F1D233D8A4B009640CC /* Info.plist */,
+				2EA09F4423467F8900B6F6A8 /* Be Fantastic-Bridging-Header.h */,
+			);
+			path = "Be Fantastic";
+			sourceTree = "<group>";
+		};
+		2E554F25233D8A4B009640CC /* Be FantasticTests */ = {
+			isa = PBXGroup;
+			children = (
+				2E554F26233D8A4B009640CC /* Be_FantasticTests.swift */,
+				2E554F28233D8A4B009640CC /* Info.plist */,
+			);
+			path = "Be FantasticTests";
+			sourceTree = "<group>";
+		};
+		2E554F30233D8A4B009640CC /* Be FantasticUITests */ = {
+			isa = PBXGroup;
+			children = (
+				2E554F31233D8A4B009640CC /* Be_FantasticUITests.swift */,
+				2E554F33233D8A4B009640CC /* Info.plist */,
+			);
+			path = "Be FantasticUITests";
+			sourceTree = "<group>";
+		};
+		2E59AD20234FB85600A5D9B4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2E59AD24234FB85600A5D9B4 /* iOSAudioPlayer.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2E5D482F2341DF7300E1D89F /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+				2E0D41EA233D9870000683A9 /* HomeVideoListPresenter.swift */,
+				2E5D482D2341DF6C00E1D89F /* AppConfigurePresenter.swift */,
+			);
+			path = Presenter;
+			sourceTree = "<group>";
+		};
+		2E5D48322341E33C00E1D89F /* NetworkManger */ = {
+			isa = PBXGroup;
+			children = (
+				2E5D48332341E36F00E1D89F /* NetworkManager.swift */,
+			);
+			path = NetworkManger;
+			sourceTree = "<group>";
+		};
+		2EA09F3D2346492B00B6F6A8 /* VideoCell */ = {
+			isa = PBXGroup;
+			children = (
+				2E0D41E8233D9870000683A9 /* HomeTableCell.swift */,
+				2E0D41E9233D9870000683A9 /* HomeCollectionViewCell.swift */,
+				2E0D41F9233DA488000683A9 /* AskAnyThingTableCell.swift */,
+				2EA09F3E2346498A00B6F6A8 /* NormalCollectionCell.swift */,
+				2EA09F4023464DDB00B6F6A8 /* AskAnythingCollectionCell.swift */,
+				2E49CCCE23490BC40023BB17 /* FantasticInterviewTableCell.swift */,
+				2EF63214235F4CE60009BC81 /* AdayInLifeTableCell.swift */,
+				2EF63216235F4D650009BC81 /* AdayInLifeCollectionCell.swift */,
+				2EF6321C235F8C5A0009BC81 /* PodCastandRadioTableCell.swift */,
+			);
+			path = VideoCell;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2E554F0A233D8A4A009640CC /* Be Fantastic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2E554F36233D8A4B009640CC /* Build configuration list for PBXNativeTarget "Be Fantastic" */;
+			buildPhases = (
+				66A0CC2E4C0D8566B594DBD5 /* [CP] Check Pods Manifest.lock */,
+				2E554F07233D8A4A009640CC /* Sources */,
+				2E554F08233D8A4A009640CC /* Frameworks */,
+				2E554F09233D8A4A009640CC /* Resources */,
+				4B9319AF0EE59EB9D6D033D6 /* [CP] Embed Pods Frameworks */,
+				2E59AD29234FB8CB00A5D9B4 /* Embed Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2E59AD28234FB8CB00A5D9B4 /* PBXTargetDependency */,
+			);
+			name = "Be Fantastic";
+			productName = "Be Fantastic";
+			productReference = 2E554F0B233D8A4A009640CC /* Be Fantastic.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2E554F21233D8A4B009640CC /* Be FantasticTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2E554F39233D8A4B009640CC /* Build configuration list for PBXNativeTarget "Be FantasticTests" */;
+			buildPhases = (
+				B526C7A691F1D233E7F462AA /* [CP] Check Pods Manifest.lock */,
+				2E554F1E233D8A4B009640CC /* Sources */,
+				2E554F1F233D8A4B009640CC /* Frameworks */,
+				2E554F20233D8A4B009640CC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2E554F24233D8A4B009640CC /* PBXTargetDependency */,
+			);
+			name = "Be FantasticTests";
+			productName = "Be FantasticTests";
+			productReference = 2E554F22233D8A4B009640CC /* Be FantasticTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		2E554F2C233D8A4B009640CC /* Be FantasticUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2E554F3C233D8A4B009640CC /* Build configuration list for PBXNativeTarget "Be FantasticUITests" */;
+			buildPhases = (
+				FDB3748C28B55AE6D174B2C8 /* [CP] Check Pods Manifest.lock */,
+				2E554F29233D8A4B009640CC /* Sources */,
+				2E554F2A233D8A4B009640CC /* Frameworks */,
+				2E554F2B233D8A4B009640CC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2E554F2F233D8A4B009640CC /* PBXTargetDependency */,
+			);
+			name = "Be FantasticUITests";
+			productName = "Be FantasticUITests";
+			productReference = 2E554F2D233D8A4B009640CC /* Be FantasticUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2E554F03233D8A4A009640CC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1020;
+				LastUpgradeCheck = 1020;
+				ORGANIZATIONNAME = "Qwerty System";
+				TargetAttributes = {
+					2E554F0A233D8A4A009640CC = {
+						CreatedOnToolsVersion = 10.2.1;
+						LastSwiftMigration = 1020;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
+					};
+					2E554F21233D8A4B009640CC = {
+						CreatedOnToolsVersion = 10.2.1;
+						TestTargetID = 2E554F0A233D8A4A009640CC;
+					};
+					2E554F2C233D8A4B009640CC = {
+						CreatedOnToolsVersion = 10.2.1;
+						TestTargetID = 2E554F0A233D8A4A009640CC;
+					};
+				};
+			};
+			buildConfigurationList = 2E554F06233D8A4A009640CC /* Build configuration list for PBXProject "Be Fantastic" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2E554F02233D8A4A009640CC;
+			productRefGroup = 2E554F0C233D8A4A009640CC /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 2E59AD20234FB85600A5D9B4 /* Products */;
+					ProjectRef = 2E59AD1F234FB85600A5D9B4 /* iOSAudioPlayer.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				2E554F0A233D8A4A009640CC /* Be Fantastic */,
+				2E554F21233D8A4B009640CC /* Be FantasticTests */,
+				2E554F2C233D8A4B009640CC /* Be FantasticUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		2E59AD24234FB85600A5D9B4 /* iOSAudioPlayer.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = iOSAudioPlayer.framework;
+			remoteRef = 2E59AD23234FB85600A5D9B4 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2E554F09233D8A4A009640CC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2E3A406823475AFD007099A2 /* youtube.json in Resources */,
+				2E0D41DE233D9529000683A9 /* Screenshot 2019-09-27 at 4.30.22 AM.png in Resources */,
+				2E0D41F6233DA2D8000683A9 /* Radio.png in Resources */,
+				2E554F1C233D8A4B009640CC /* LaunchScreen.storyboard in Resources */,
+				2E0D41DD233D9529000683A9 /* Screenshot 2019-09-27 at 2.22.37 AM.png in Resources */,
+				2E084CA7234E7F1700D7BF51 /* TPKeyboardAvoiding in Resources */,
+				2E0D41E1233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.32 AM.png in Resources */,
+				2E0D41E5233D9538000683A9 /* AppConfig.json in Resources */,
+				2E0D41F8233DA2D8000683A9 /* AskAnyThing.png in Resources */,
+				2E0D41E0233D9529000683A9 /* Screenshot 2019-09-27 at 2.44.28 AM.png in Resources */,
+				2E4A9B4B2357750F00E58B06 /* AdayinLife.json in Resources */,
+				2E554F19233D8A4B009640CC /* Assets.xcassets in Resources */,
+				2E0D41F7233DA2D8000683A9 /* Podcast.png in Resources */,
+				2E084CA1234E475700D7BF51 /* RadioShow.png in Resources */,
+				2E1E96BE233FFAE500CC4D98 /* roboto in Resources */,
+				2E0D41DF233D9529000683A9 /* Screenshot 2019-09-27 at 2.45.42 AM.png in Resources */,
+				2E084CA4234E78C200D7BF51 /* Movementresponse.json in Resources */,
+				2E554F14233D8A4A009640CC /* Main.storyboard in Resources */,
+				2E0D41D5233D9502000683A9 /* fjalla-one in Resources */,
+				2E0D4208233DCC08000683A9 /* Screenshot 2019-09-27 at 10.17.40 AM.png in Resources */,
+				2EF63222235F9FC50009BC81 /* GoogleService-Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E554F20233D8A4B009640CC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E554F2B233D8A4B009640CC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4B9319AF0EE59EB9D6D033D6 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Be Fantastic/Pods-Be Fantastic-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Be Fantastic/Pods-Be Fantastic-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Be Fantastic/Pods-Be Fantastic-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		66A0CC2E4C0D8566B594DBD5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Be Fantastic-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B526C7A691F1D233E7F462AA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Be FantasticTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FDB3748C28B55AE6D174B2C8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Be FantasticUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2E554F07233D8A4A009640CC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2EF6321D235F8C5A0009BC81 /* PodCastandRadioTableCell.swift in Sources */,
+				2E49CCD7234966DE0023BB17 /* Quotes.swift in Sources */,
+				2E49CCD223492ADE0023BB17 /* MotivationalQuotesViewController.swift in Sources */,
+				2E084C9D234E411F00D7BF51 /* RadioShowViewController.swift in Sources */,
+				2E0D41F0233D98B5000683A9 /* AppConstant.swift in Sources */,
+				2E0D41EC233D9870000683A9 /* HomeCollectionViewCell.swift in Sources */,
+				2E0D41FA233DA488000683A9 /* AskAnyThingTableCell.swift in Sources */,
+				2E0D4202233DBF91000683A9 /* HomeTabbarController.swift in Sources */,
+				2E59AD2E234FB9F700A5D9B4 /* RadioPlayerViewController.swift in Sources */,
+				2E3A406C23478123007099A2 /* VideoDetailTableCell.swift in Sources */,
+				2E5D48342341E36F00E1D89F /* NetworkManager.swift in Sources */,
+				2E49CCCF23490BC40023BB17 /* FantasticInterviewTableCell.swift in Sources */,
+				2E0D41E7233D9859000683A9 /* HomeViewController.swift in Sources */,
+				2E084C9A234E1B1A00D7BF51 /* MoreDetailViewController.swift in Sources */,
+				2E49CCDA234A0C0D0023BB17 /* XMLReader.m in Sources */,
+				2E49CCD523492B020023BB17 /* QuotesPresenter.swift in Sources */,
+				2E1E96C0233FFC7B00CC4D98 /* CustomView.swift in Sources */,
+				2EA09F4123464DDB00B6F6A8 /* AskAnythingCollectionCell.swift in Sources */,
+				2E0D41ED233D9870000683A9 /* HomeVideoListPresenter.swift in Sources */,
+				2E572D12235F09190016E2DC /* ExpandableCell.swift in Sources */,
+				2E084C9F234E442100D7BF51 /* RadioFileTableCell.swift in Sources */,
+				2E0D4204233DC1A9000683A9 /* MoreViewController.swift in Sources */,
+				2E01AB412360AB1200C9D920 /* SettingViewController.swift in Sources */,
+				2E0D41AA233D8D86000683A9 /* VideoTabViewController.swift in Sources */,
+				2E0D4206233DCB0B000683A9 /* MoreTabTableCellTableViewCell.swift in Sources */,
+				2E0D41FD233DAABC000683A9 /* PodCastViewController.swift in Sources */,
+				2E49DED0233E4E8600F05256 /* FantasticMovementViewController.swift in Sources */,
+				2E0BDDAD235E007B00FE44A9 /* CustomHeaderCell.swift in Sources */,
+				2E49DED2233E510400F05256 /* FantasticMovementTableCell.swift in Sources */,
+				2EC21960234BC9EA00D0BAF9 /* QuotesCollectionViewCell.swift in Sources */,
+				2EB0ACB6235A4B7000A85916 /* SeeMoreViewController.swift in Sources */,
+				2E554F0F233D8A4A009640CC /* AppDelegate.swift in Sources */,
+				2EA09F3F2346498A00B6F6A8 /* NormalCollectionCell.swift in Sources */,
+				2E28A46A233E1B1A009E6E69 /* YouTubeVideoViewController.swift in Sources */,
+				2E5D482E2341DF6C00E1D89F /* AppConfigurePresenter.swift in Sources */,
+				2E0D41F2233D98C6000683A9 /* CommonMethod.swift in Sources */,
+				2EF63215235F4CE60009BC81 /* AdayInLifeTableCell.swift in Sources */,
+				2E49DED4233E5AD900F05256 /* BookSessionViewController.swift in Sources */,
+				2E3A406A234769E6007099A2 /* VideoDetailsViewController.swift in Sources */,
+				2E0D41AC233D8DCB000683A9 /* VideoTabCell.swift in Sources */,
+				2E0D41EB233D9870000683A9 /* HomeTableCell.swift in Sources */,
+				2EA09F4D234684BE00B6F6A8 /* UPCarouselFlowLayout.swift in Sources */,
+				2EF63217235F4D650009BC81 /* AdayInLifeCollectionCell.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E554F1E233D8A4B009640CC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2E554F27233D8A4B009640CC /* Be_FantasticTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2E554F29233D8A4B009640CC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2E554F32233D8A4B009640CC /* Be_FantasticUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2E554F24233D8A4B009640CC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2E554F0A233D8A4A009640CC /* Be Fantastic */;
+			targetProxy = 2E554F23233D8A4B009640CC /* PBXContainerItemProxy */;
+		};
+		2E554F2F233D8A4B009640CC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2E554F0A233D8A4A009640CC /* Be Fantastic */;
+			targetProxy = 2E554F2E233D8A4B009640CC /* PBXContainerItemProxy */;
+		};
+		2E59AD28234FB8CB00A5D9B4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = iOSAudioPlayer;
+			targetProxy = 2E59AD27234FB8CB00A5D9B4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2E554F12233D8A4A009640CC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2E554F13233D8A4A009640CC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2E554F1A233D8A4B009640CC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2E554F1B233D8A4B009640CC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2E554F34233D8A4B009640CC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Vikrant Bains (98ET4SFX66)";
+				CODE_SIGN_STYLE = Manual;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = X26Y4V4JVY;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2E554F35233D8A4B009640CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Vikrant Bains (98ET4SFX66)";
+				CODE_SIGN_STYLE = Manual;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = X26Y4V4JVY;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2E554F37233D8A4B009640CC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DE97BDA6195C0D22C43675EC /* Pods-Be Fantastic.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = "Be Fantastic/Be Fantastic.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Vikrant Bains (98ET4SFX66)";
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = X26Y4V4JVY;
+				INFOPLIST_FILE = "Be Fantastic/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.qwertysysonline.befantastic2day;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = BeFantastic_Dev_Provisioning_Profile;
+				SWIFT_OBJC_BRIDGING_HEADER = "Be Fantastic/Be Fantastic-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2E554F38233D8A4B009640CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8491EBF78D5AD09505C23DD8 /* Pods-Be Fantastic.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = "Be Fantastic/Be Fantastic.entitlements";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Vikrant Bains (98ET4SFX66)";
+				CODE_SIGN_INJECT_BASE_ENTITLEMENTS = YES;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = X26Y4V4JVY;
+				INFOPLIST_FILE = "Be Fantastic/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.qwertysysonline.befantastic2day;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = BeFantastic_Dev_Provisioning_Profile;
+				SWIFT_OBJC_BRIDGING_HEADER = "Be Fantastic/Be Fantastic-Bridging-Header.h";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		2E554F3A233D8A4B009640CC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5122E00661AC7D5AD245671E /* Pods-Be FantasticTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V8K9VF9WD4;
+				INFOPLIST_FILE = "Be FantasticTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.qwertysysonline.befantastic2day.Be-FantasticTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Be Fantastic.app/Be Fantastic";
+			};
+			name = Debug;
+		};
+		2E554F3B233D8A4B009640CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 29E4963D70CB64EDD6370AB8 /* Pods-Be FantasticTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V8K9VF9WD4;
+				INFOPLIST_FILE = "Be FantasticTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.qwertysysonline.befantastic2day.Be-FantasticTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Be Fantastic.app/Be Fantastic";
+			};
+			name = Release;
+		};
+		2E554F3D233D8A4B009640CC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F2FAADEC9957D804CD85AB50 /* Pods-Be FantasticUITests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V8K9VF9WD4;
+				INFOPLIST_FILE = "Be FantasticUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.qwertysysonline.befantastic2day.Be-FantasticUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Be Fantastic";
+			};
+			name = Debug;
+		};
+		2E554F3E233D8A4B009640CC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA73A17D13CC76EF886A6F9B /* Pods-Be FantasticUITests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = V8K9VF9WD4;
+				INFOPLIST_FILE = "Be FantasticUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.qwertysysonline.befantastic2day.Be-FantasticUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Be Fantastic";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2E554F06233D8A4A009640CC /* Build configuration list for PBXProject "Be Fantastic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E554F34233D8A4B009640CC /* Debug */,
+				2E554F35233D8A4B009640CC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2E554F36233D8A4B009640CC /* Build configuration list for PBXNativeTarget "Be Fantastic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E554F37233D8A4B009640CC /* Debug */,
+				2E554F38233D8A4B009640CC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2E554F39233D8A4B009640CC /* Build configuration list for PBXNativeTarget "Be FantasticTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E554F3A233D8A4B009640CC /* Debug */,
+				2E554F3B233D8A4B009640CC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2E554F3C233D8A4B009640CC /* Build configuration list for PBXNativeTarget "Be FantasticUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2E554F3D233D8A4B009640CC /* Debug */,
+				2E554F3E233D8A4B009640CC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2E554F03233D8A4A009640CC /* Project object */;
+}

@@ -1,0 +1,1332 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/S_HYzFtSLy2mjNqpN5B6cXjXU90\"",
+ "nextPageToken": "CCgQAA",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 983,
+  "resultsPerPage": 40
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/hVO9R-nyAL-4DFuYsVfIwvoW_ls\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "eAl3YPkYR_Y"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-04T03:31:39.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "10/3/19 Dr. Fantastic -  Jack of all trades",
+    "description": "Captain, varnisher, electrician, painter, plumber, carpenter are some of the trades I perform on the Pyrat yacht.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eAl3YPkYR_Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eAl3YPkYR_Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eAl3YPkYR_Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ylo8GRy9YwWpUD4KkQJ4Xk8Gjgw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "O3ZMt4ChMAs"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-02T22:36:54.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "10/2/19 wonderful Wednesday with Nicole",
+    "description": "Another Fantastic person becomes an Ambassador of positivity.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/O3ZMt4ChMAs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/O3ZMt4ChMAs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/O3ZMt4ChMAs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/vAiIVTulJDRynKMEBzDkGU7ddGE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "kUlEDeOtbpI"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-01T22:56:00.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "Another great conversation with the Fantastic Richard Harrison",
+    "description": "Candid conversation with film legend Richard Harrison.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/kUlEDeOtbpI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/kUlEDeOtbpI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/kUlEDeOtbpI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/lfAx32DofYfxSCHzCq09vcrQlpA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "f9c3da2I4Sk"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-01T22:25:49.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "10/1/19Dont watch if the word Fuck offends you",
+    "description": "Fan fucking tastic day.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/f9c3da2I4Sk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/f9c3da2I4Sk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/f9c3da2I4Sk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/6E6-xSZQ7H_5orLIkga2DsG9vBc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "gObHgDaXwjI"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-01T13:30:48.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "People have questions, Dr. Fantastic answers them on www.befantastictoday.com",
+    "description": "Dr..Fantastic loves tackling the tough questions, while he is not a real doctors his answers have helped many people. Tune to www.befantastictoday.com for Ask ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gObHgDaXwjI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gObHgDaXwjI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gObHgDaXwjI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/1TINj6yu7h_78yBJZmze05uGKxk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "xkws20rtgtQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-10-01T04:28:56.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/30/19 City life, ain&#39;t it grand!",
+    "description": "Broken down busses, bumps, police and young people, a fun day in l.a..",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xkws20rtgtQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xkws20rtgtQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xkws20rtgtQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/I3w7qEbp_1JH-MZrdU1QQlOKQWo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "ShHBe1uGjqM"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-29T22:58:40.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/29/19 Super Slow Sunday in September,  Seriously!",
+    "description": "Sometimes you just gotta take it easy.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ShHBe1uGjqM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ShHBe1uGjqM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ShHBe1uGjqM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/d-MNTIc3YSIDOkPRRpVRjhayi-I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WQsB4F7ruec"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-29T14:59:01.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/28/19 Carl Fryer debuts his new song Live",
+    "description": "British Singer-Songwriter Carl Fryer debuts a teaser of new song \"Pinetrees\" from his upcoming album whilst on his way to Hollywood for the day with the ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WQsB4F7ruec/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WQsB4F7ruec/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WQsB4F7ruec/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/QzYazMOh5mpGzP0l0bu5v5PRZyw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8r_HjWsRIj8"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-28T21:53:03.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "The Fantastic Samsung folding phone",
+    "description": "It's an amazing phone and only $2000.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8r_HjWsRIj8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8r_HjWsRIj8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8r_HjWsRIj8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/hvMetrXbhA7jfkyLMoWhyluBcYA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-bBWpaLB2fs"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-28T15:49:19.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "I took a Lyft and gave a lift",
+    "description": "Inspiring riders to be Fantastic is great, inspiring drivers even better.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-bBWpaLB2fs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-bBWpaLB2fs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-bBWpaLB2fs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/gDwmGwTLWAlBnMKlJa-bJ-37FPY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "TZis9DPfN0w"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-28T01:34:55.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/27/19 Fantastic Friday, Psycho Therapist, sail boat and tree crushes mercedes",
+    "description": "What a day! Great interview and more.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TZis9DPfN0w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TZis9DPfN0w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TZis9DPfN0w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/lXoXg6rEe-bqaaNHm2lZqQDwn6Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "e19y0Y3VipE"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-27T21:00:54.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/26/19 I guess every day can&#39;t be Fantastic",
+    "description": "Not a Fantastic day.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e19y0Y3VipE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e19y0Y3VipE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e19y0Y3VipE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/vYdqYnrOQkmlkY5mLm2j4Zr0L9w\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YA58nrHBrOE"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-26T05:46:37.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/25/19 the day preceeding my speech at the yacht club",
+    "description": "The lead up to my speech and a interview afterwards.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YA58nrHBrOE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YA58nrHBrOE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YA58nrHBrOE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/hgh_ZgVWLp1U81O98qL_qduLCRk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8mIaWJTfucg"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-24T23:58:59.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "Actor Richard Harrison is Fantastic",
+    "description": "A casual interview with Richard Harrison who has been in 135 films.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8mIaWJTfucg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8mIaWJTfucg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8mIaWJTfucg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/tdNxT-54UYZWVxFT4QzNpSoDSEs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XPUuqgISqSU"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-24T23:59:42.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "8/23/19 only 50% of my interviews worked today!!  Damn",
+    "description": "After over 30 years in video I can only blame it on camera failure.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XPUuqgISqSU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XPUuqgISqSU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XPUuqgISqSU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/RKV_mWe2Ysw9uUr6aqOIrGEVULQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "e1mRLD-g7sE"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-24T23:57:21.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/24/19 Another Fantastic day interviewing Fantastic people",
+    "description": "From Virgin Galactic engineer to my autistic buddy it was a Fantastic day.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e1mRLD-g7sE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e1mRLD-g7sE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e1mRLD-g7sE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/nn6Iiv9PuxQmMhZtrUxohz4lLpc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "w40nvxkm5-s"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-24T23:55:16.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "Virgin Orbit ex Galactic engineer is Fantastic",
+    "description": "Lead software engineer for Virgin Orbit gives Fantastic interview.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w40nvxkm5-s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w40nvxkm5-s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w40nvxkm5-s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/Yl2KXN1JpDxJR_tkue54dToUyVo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mMN3QBZwXyU"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-23T21:32:41.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/19/19 Dr. Fantastic is Santa and welcomes mega yacht to MDR.",
+    "description": "9/19/19 Dr. Fantastic is Santa and welcomes mega yacht to MDR.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mMN3QBZwXyU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mMN3QBZwXyU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mMN3QBZwXyU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/4cKD8eRd9CGIrAsJ_djbGCHeWbY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YPVzKkoZpuw"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-23T15:24:49.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "Motivation and Margueritas this Wednesday 7pm at Windjammers yacht club",
+    "description": "Bring your friends, family, kids to hear a motivational speech that might just make the world a more civil place. Its FREE just RSVP to 3109135533.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YPVzKkoZpuw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YPVzKkoZpuw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YPVzKkoZpuw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/nGX0Rwv7CN8V_mr0hDN-qoEwtFs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hJ6Jvo_jBzs"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-22T23:14:16.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/22/19 Marines are Fantastic",
+    "description": "A great casual conversation with a Marine on the drive from Pepperdine to Union Station.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hJ6Jvo_jBzs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hJ6Jvo_jBzs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hJ6Jvo_jBzs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/_Y3362zvaQYJwqSFWkRlAFAcRtE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "jujvWO8wBdM"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-21T23:29:47.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/20/19 Fantastic 6th grader to a Fantastic A list Hollywood soiree",
+    "description": "What a day, 20 hours of non stop action.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jujvWO8wBdM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jujvWO8wBdM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jujvWO8wBdM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/MX4SnTk0Ua7K0wQ__H84i3w1EdQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "a1Ta8sYZhWc"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-21T20:06:14.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/21/19 Chelsko the millenial spills the beans",
+    "description": "Our Ambassador of Positivity #72 can really talk, and sing, and is opinionated, what a gal!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/a1Ta8sYZhWc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/a1Ta8sYZhWc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/a1Ta8sYZhWc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/VXnXxvLghpuWuFASudwrPt7Kzno\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "CrDG0nlf_7o"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-19T00:14:16.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/18/19 video disaster day, time for a new phone",
+    "description": "Great interviews no one will see, fun day not recorded. Oh well.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CrDG0nlf_7o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CrDG0nlf_7o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CrDG0nlf_7o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/oycS1cYIG_vUGZYb2VdHFA4rwwk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Q0pfOtyOJCo"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-18T20:37:44.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/14/19 Dr. Fantastic gets arrested",
+    "description": "Not always doing the right thing is good. Dont pick up stranded travelers if you drive for Lyft or Uber.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Q0pfOtyOJCo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Q0pfOtyOJCo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Q0pfOtyOJCo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/uRFjuZpYwwAKa52V88SomtfxmCI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "WYSIKdR-E20"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-18T12:41:05.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/17/19 Fantastic interview and my live radio show",
+    "description": "Love when I get an interviewee that doesnt agree with me.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WYSIKdR-E20/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WYSIKdR-E20/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WYSIKdR-E20/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/PxpYhlm4yjAYV-xuGpTrm5362nY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6cRzMyaRw_8"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-17T00:54:54.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "The Be Fantastic movement explained",
+    "description": "As it evolves it needs explanation.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6cRzMyaRw_8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6cRzMyaRw_8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6cRzMyaRw_8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/EH1LxLHpyZDFcBaRwdafhOPj6Tw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mDTr1yci-p4"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-17T00:14:20.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/16/19 Dr. Fantastic gets coerced into a commercial and gets out of jury duty.",
+    "description": "Are any Mondays normal in Dr. Fantastics world?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mDTr1yci-p4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mDTr1yci-p4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mDTr1yci-p4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/6O1sLEDE_a7KQ_p0BJzFbeVmCBY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "eGXH9ilRjsA"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-16T08:45:22.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/15/19 Yachting by Day, KAA ROO by night",
+    "description": "5th consecutive day Dr. Fantastic has chronicled his day on video.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eGXH9ilRjsA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eGXH9ilRjsA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eGXH9ilRjsA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/hIObITclYCOcNVO0OgHw1DXKA7Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "l-jdho-xdhw"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-15T21:06:44.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "Help Dr. Fantastic make the world a more civil place",
+    "description": "Please share. We need more Fantastic people.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l-jdho-xdhw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l-jdho-xdhw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l-jdho-xdhw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/CUSWS9yditRbPr2nCxHoHDjxo-M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "7QVwhj6z3HM"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-15T01:55:19.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/14/19 Dr. Fantastic gets arrested",
+    "description": "Doing a good deed not always is rewarded.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7QVwhj6z3HM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7QVwhj6z3HM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7QVwhj6z3HM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/9tspmeXokz-ACwRs-h5KuOjU91E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SD2_eWReliE"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-14T23:40:22.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/14/19 Dr. Fantastic gets handcuffed and arrested",
+    "description": "Ride share drivers beware, don't pick up hitch hikes, it could be a sting operation. Learn by Dr. Fantastic's mistake.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SD2_eWReliE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SD2_eWReliE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SD2_eWReliE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/UPS5LogWRwXL6_iLB5AQABIAeMA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "An2oZBJ9R7g"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-14T23:15:51.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/13/19 part two",
+    "description": "Malibu state park, Zuma beach, movie set, nudie beach all in one day.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/An2oZBJ9R7g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/An2oZBJ9R7g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/An2oZBJ9R7g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/fTwfoW2SgBUi9QagWbq94fPukRg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "8ZzjJtSNfzg"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-14T22:44:42.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/13/19 part one",
+    "description": "3rd day in a row Dr. Fantastic has chronicled his day making people Fantastic.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8ZzjJtSNfzg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8ZzjJtSNfzg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8ZzjJtSNfzg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/ZfKMmY7lRHOJ7k_veYMIlnN3DrI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Kfz5KEMtgKc"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-13T21:45:25.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "Fantastico Movimiento en Espanol",
+    "description": "My bueno por tu.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Kfz5KEMtgKc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Kfz5KEMtgKc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Kfz5KEMtgKc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/fZpQq2cYkBeoN5wiDj7bu4mvUvs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "e-z6j8J-JBg"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-12T15:18:09.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/11/19 Dr. Fantastic interviews folks at Pepperdine 9/11 memorial",
+    "description": "Fantastic 9/11 memorial at Pepperdine university.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/e-z6j8J-JBg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/e-z6j8J-JBg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/e-z6j8J-JBg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/OhLCVB-itmWxLkgwYzC4q7XM0EQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-8J0flLTHUY"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-11T22:16:18.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "Captain Alex plays taps at 9/11 memorial",
+    "description": "Taps played in pepperdine.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-8J0flLTHUY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-8J0flLTHUY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-8J0flLTHUY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/U333_nZ1AjFFGG1LuUAu2yEs1Kw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "viYomof5zjQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-11T14:02:15.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "Dr. Fantastic gets fired at Alec Baldwin Roast",
+    "description": "My first day at my 81st endeavor I get fired, being Dr. Fantastic can set some people off!!",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/viYomof5zjQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/viYomof5zjQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/viYomof5zjQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/uQSt4fl4WPxbAl3BJ8COzeYhvsA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "YpuM6etuyLo"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-10T15:57:25.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/10/19 Raiders vs Broncos vs Dr Fantastic part 1",
+    "description": "Monday night football.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YpuM6etuyLo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YpuM6etuyLo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YpuM6etuyLo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/6QeQbRb2n1XW__UJQUJ5IJCApws\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "CJEfNLFuK5s"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-10T07:41:44.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "9/10/19 Raiders vs Broncos vs Dr. Fantastic part 2",
+    "description": "Dr. Fantastic crashes the best seats in the stadium on Monday night football.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/CJEfNLFuK5s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/CJEfNLFuK5s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/CJEfNLFuK5s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/jM5TPsyMZmuOkyEL3BV4uNxwxl8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "AV8NdmF9EFY"
+   },
+   "snippet": {
+    "publishedAt": "2019-09-07T01:53:00.000Z",
+    "channelId": "UCsUMcnDeIrOYKRSybB1yq2Q",
+    "title": "I am Fantastic jingle",
+    "description": "Instant song writer Gerry Robinson creates one for Dr. Fantastic. He has created instant songs for movie stars and presidents for 50 years.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/AV8NdmF9EFY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/AV8NdmF9EFY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/AV8NdmF9EFY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "Be Fantastic movement",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}

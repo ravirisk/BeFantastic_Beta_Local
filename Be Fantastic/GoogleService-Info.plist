@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>129464973122-6mojar421hpa4vhudd18jn8t0piprkd9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.129464973122-6mojar421hpa4vhudd18jn8t0piprkd9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1-LFxbLE31P3l6rOkYTCCGgtZnFNtoqw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>129464973122</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.qwertysysonline.befantastic2day</string>
+	<key>PROJECT_ID</key>
+	<string>befantastictoday</string>
+	<key>STORAGE_BUCKET</key>
+	<string>befantastictoday.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:129464973122:ios:97fcea83c6333c33acbadb</string>
+	<key>DATABASE_URL</key>
+	<string>https://befantastictoday.firebaseio.com</string>
+</dict>
+</plist>
